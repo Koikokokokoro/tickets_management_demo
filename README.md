@@ -1,2 +1,4 @@
 # Tickets_Manager_Demo
- course proj for programming class
+a stupid course proj for programming class
+ 
+written by koikokokokoro, southeast uni.
